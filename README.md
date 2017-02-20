@@ -1,2 +1,2 @@
 #mytunes
-This is a project I completed as a student at [hackreactor](http://hackreactor.com).
+A basic music library streaming application that I built using Backbone.
